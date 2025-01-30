@@ -4,8 +4,8 @@ A simple public REST API that returns basic information including an email addre
 
 ## Live Demo
 
-- The API is live at: [https://hng-stage0-api-8r3u.onrender.com/](https://hng-stage0-api-8r3u.onrender.com/)
-- Secondary Link - [https://hngstage0-bruvaa.netlify.app/](https://hngstage0-bruvaa.netlify.app/)
+- Previous link [https://hng-stage0-api-8r3u.onrender.com/](https://hng-stage0-api-8r3u.onrender.com/)
+- Current Link - [https://hngstage0-bruvaa.netlify.app/](https://hngstage0-bruvaa.netlify.app/) - Rehosted cos URL bot issues
 
 ## Features
 
