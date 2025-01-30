@@ -15,7 +15,7 @@ app.get('/', (req: Request, res: Response) => {
   const responseData = {
     email: 'marvellousmikeubani@gmail.com', 
     current_datetime: new Date().toISOString(), // Dynamically generated ISO 8601 timestamp
-    github_url: 'https://github.com/your-username/hng-stage0-api', // github url
+    github_url: 'https://github.com/MarvellousUbani/hng-stage0-api', // github url
   };
 
   // Send the JSON response
